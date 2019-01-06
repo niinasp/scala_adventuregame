@@ -1,0 +1,48 @@
+Ruuhkavuosiseikkailu - walkthrough
+
+Pelin tavoitteena on selvitä marraskuisesta maanantaipäivästä. 
+Peli toimii englanniksi, vaikka ohjeet ovatkin suomeksi.
+
+
+Pelin päähenkilö herää marraskuiseen maanantaiaamuun. Hänen tehtävänään on selvitä arjen haasteista annetussa ajassa (30 pelivuoroa).
+Joidenkin tehtävien järjestystä voi hieman muuttaa, nopeimmin askaret saa hoidettua kun noudattaa alla kuvattua järjestystä.
+
+Komennolla "help" on mahdollista saada jonkinlaista apua, komento "commands" listaa käyettävissä olevat komennot
+
+1.	Koiran ulkoilutus 
+- kytke koira remmiin (take dog)
+- mene puistoon 
+- vapauta koira puistossa (release dog)
+- huom! koirasi pitää ainoastaan yhdestä tietystä puistosta
+- kytke koira taas remmiin (take dog)
+
+2.	Takaisin kotiin, jossa
+- irrota koira remmistä (release)
+- ota lapsi mukaan (take kid)
+- kannattaa myös ottaa jumppakassi mukaan jo tässä vaiheessa (take gymbag)
+
+3. Suunnista päiväkotiin
+- vapauta lapsi (release kid)
+
+
+4. Mene työpaikalle
+- tee töitä (work)
+
+5. Mene kuntosalille
+- treenaa (workout)
+
+6. Mene kauppaan
+- osta ruokaa (buy food)
+
+7. Hae lapsesi koulukirja koulusta
+- etsi koulu
+- ota matematiikan kirja (take mathbook)
+
+8. Hae lapsi päiväkodista 
+- take kid
+
+9. Mene kotiin
+- ja vapauta vielä lapsi kotona (release kid)
+
+
+
